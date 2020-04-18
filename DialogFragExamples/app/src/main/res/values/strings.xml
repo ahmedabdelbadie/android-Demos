@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DialogFrag</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="days">
+        <item>Sat</item>
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tus</item>
+        <item>Wen</item>
+        <item>Tus</item>
+        <item>Fri</item>
+    </array>
+    <array name="items">
+        <item>It</item>
+        <item>Thor: Ragnarok</item>
+        <item>Jumanji</item>
+        <item>Justice League</item>
+    </array>
+</resources>

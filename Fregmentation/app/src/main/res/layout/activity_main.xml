@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ahmed.testfragment.Activities.MainActivity"
+    android:orientation="vertical">
+    <Button
+        android:id="@+id/simpletest"
+        android:text="Simple Test Fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="simpleTest"/>
+    <Button
+        android:id="@+id/counterfag"
+        android:text="Counter From Two Fragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="conterFrag"/>
+    <Button
+        android:id="@+id/movieland"
+        android:text=" Movie Land Fragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="movieLandFrag"/>
+    <Button
+        android:id="@+id/movielistner"
+        android:text=" Movie Land Listner Fragments"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:onClick="movieListnerFrag"/>
+
+
+
+</LinearLayout>

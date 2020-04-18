@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestRecyclerCardViewWithHighlightText</string>
+    <string-array name="tags">
+        <item> Health </item>
+        <item> Eduacation </item>
+        <item> Development </item>
+    </string-array>
+</resources>

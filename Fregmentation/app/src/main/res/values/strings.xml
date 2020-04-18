@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">TestFragment</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <array name="items">
+        <item>It</item>
+        <item>Thor: Ragnarok</item>
+        <item>Jumanji</item>
+        <item>Justice League</item>
+    </array>
+    <array name="desc">
+        <item>In a small town in Maine, seven children known as The Losers Club come face to face
+            with life problems, bullies and a monster that takes the shape of a clown called
+            Pennywise.
+        </item>
+        <item>Thor is imprisoned on the other side of the universe and finds himself in a race
+            against time to get back to Asgard to stop Ragnarok, the prophecy of destruction to his
+            homeworld and the end of Asgardian civilization, at the hands of an all-powerful new
+            threat, the ruthless Hela.
+        </item>
+        <item>When siblings Judy and Peter discover an enchanted board game that opens the door to a
+            magical world, they unwittingly invite Alan -- an adult who's been trapped inside the
+            game for 26 years -- into their living room. Alan's only hope for freedom is to finish
+            the game, which proves risky as all three find themselves running from giant
+            rhinoceroses, evil monkeys and other terrifying creatures.
+        </item>
+        <item>Fueled by his restored faith in humanity and inspired by Superman's selfless act,
+            Bruce Wayne and Diana Prince assemble a team of metahumans consisting of Barry Allen,
+            Arthur Curry, and Victor Stone to face the catastrophic threat of Steppenwolf and the
+            Parademons who are on the hunt for three Mother Boxes on Earth.
+        </item>
+    </array>
+
+</resources>

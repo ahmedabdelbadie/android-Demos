@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.example.ahmed.dialogfrag.CustomMessage">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Here The Title Of Dialog"
+        android:textColor="#a1a"
+        android:layout_margin="30dp"
+        android:textSize="24sp"/>
+    <TextView
+        android:paddingHorizontal="30dp"
+        android:textSize="16sp"
+        android:textColor="#00bbaa"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Here THe Messesge Of The Alert Dialog sdsalf aegknlw gwjng gwejng wgejn gnring wigow gwijw" />
+
+
+</LinearLayout>

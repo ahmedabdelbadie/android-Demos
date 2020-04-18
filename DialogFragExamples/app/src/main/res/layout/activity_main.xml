@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.ahmed.dialogfrag.MainActivity"
+    android:orientation="vertical">
+        <Button
+            android:id="@+id/btn_simple"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="simpleDialog"
+            android:layout_marginTop="30dp"
+            android:text="Simple Dialog Without Laout" />
+        <Button
+            android:id="@+id/btn_item"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="itemDialog"
+            android:text="Item Dialog" />
+        <Button
+            android:id="@+id/btn_itemcheck"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="itemCheckDialog"
+            android:text="Item checked Dialog" />
+        <Button
+            android:id="@+id/btn_custom_message"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="customMessageDialog"
+            android:text="Custom Message Dialog" />
+        <Button
+            android:id="@+id/btn_custom_Dialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="customDialog"
+            android:text="Custom Dialog" />
+        <Button
+            android:id="@+id/btn_custom_Dialog_in_frag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="customInDialog"
+            android:text="Custom Message In Fragment Dialog" />
+        <Button
+            android:id="@+id/btn_list_Frag"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:onClick="listFrag"
+            android:text="List Fagment" />
+
+</LinearLayout>
